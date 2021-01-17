@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Paul Trippett</title>
-    <link>https://www.trippett.org/categories/</link>
+    <link>https://trippett.org/categories/</link>
     <description>Recent content in Categories on Paul Trippett</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://www.trippett.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="https://trippett.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
