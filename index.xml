@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Trippett</title>
+    <link>https://www.trippett.org/</link>
+    <description>Recent content on Paul Trippett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 17 Jan 2021 01:49:07 +0000</lastBuildDate><atom:link href="https://www.trippett.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All aboard the privacy train!</title>
+      <link>https://www.trippett.org/posts/all-aboard-the-privacy-train/</link>
+      <pubDate>Sun, 17 Jan 2021 01:49:07 +0000</pubDate>
+      
+      <guid>https://www.trippett.org/posts/all-aboard-the-privacy-train/</guid>
+      <description>For the last couple of years I have been on a mission to remove the big 5 tech companies from my life, Google, Apple, Facebook, Amazon and Microsoft, or GAFAM for short. I have to admit now that his has been a total failure thus far, however for 2021 I decided to make some progress on this endevour.
+I will state the obvious now, if you want privacy, dont have your last name as your domain but the damage there is done.</description>
+    </item>
+    
+  </channel>
+</rss>
