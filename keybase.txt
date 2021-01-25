@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ptrippett
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://trippett.org
+  * I am ptrippett (https://keybase.io/ptrippett) on keybase.
+  * I have a public key ASBzK5PO5ARuOPHn7elEoYdiQKfjUkaJfkqN2-3lUjQWtgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120732b93cee4046e38f1e7ede944a1876240a7e35246897e4a8ddbede5523416b60a",
+      "host": "keybase.io",
+      "kid": "0120732b93cee4046e38f1e7ede944a1876240a7e35246897e4a8ddbede5523416b60a",
+      "uid": "ff9d0b4a7828b12d47af6be78fbf2919",
+      "username": "ptrippett"
+    },
+    "merkle_root": {
+      "ctime": 1611609619,
+      "hash": "8ed3b1b127eed3f308c30b0e17bd542da9654aeb318927ea85d66b64bdd342b41dbd83a84c8758a5205cc74ed4ca1319a5ea8222a90cd67a0efd112da5fd5431",
+      "hash_meta": "9bc4e0c28ff010a2df3a650081325ae1e88695787799224a75848aef44b68b11",
+      "seqno": 18903945
+    },
+    "service": {
+      "entropy": "ozUujc7xi3rFRs/9lJ2JQIme",
+      "hostname": "trippett.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1611609640,
+  "expire_in": 504576000,
+  "prev": "b16a827236feb6bf135c2a80e83a4a0e605e7a290ee4a8f84a77cc6de4fada66",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcyuTzuQEbjjx5+3pRKGHYkCn41JGiX5Kjdvt5VI0FrYKp3BheWxvYWTESpcCDcQgsWqCcjb+tr8TXCqA6DpKDmBeeikO5Kj4SnfMbeT62mbEIELggSV2mt5/XiuGHecokNTBZ6IL8js+DAo0jmLz+Q28AgHCo3NpZ8RA2XLKXW2buclLy7AsDjk2Gs5rwaN4nfWJMKpweHl5WAGndgMHZMDP7xIwxhx+2mx4GjqpUkN7iSUBq7gbZZCFCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILRyllx6xP9XUn3r5MYA99Bz81CGC550ifgbVCcOFBQso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ptrippett
+
+==================================================================
